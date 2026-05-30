@@ -4,6 +4,9 @@ This repository contains an end-to-end Machine Learning pipeline to solve a comp
 
 The dataset originally originates from a Kaggle competition specifically tailored for this academic evaluation. Although the competition has now been made private by the authorities, this codebase reflects the complete workflow, optimization phases, and final high-performing ensemble submission file.
 
+> ⚠️ **Notebook Note:** The notebook may not render on GitHub due to a persistent `nbformat`/`nbconvert` issue. Please use the Google Colab link below.
+> [Open Notebook in Colab](https://colab.research.google.com/drive/1ItFHH4XjOrkh3DhKz9do3s70BnKDQPj0?usp=sharing)
+
 ## 📋 Project Objective
 The goal is to predict property values based on multi-dimensional real estate characteristics (such as location features, spatial configuration, total square footage, bathroom/balcony counts, and area configurations).
 
